@@ -12,6 +12,7 @@
     "@hookform/resolvers": "^3.4.0",
     "@ignite-ui/react": "^2.2.4",
     "axios": "^1.7.0",
+    "dayjs": "^1.11.11",
     "next": "14.2.3",
     "next-auth": "^4.24.7",
     "nookies": "^2.5.2",
